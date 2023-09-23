@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Library</string>
+    <string name="bt_login">ログイン</string>
+    <string name="ln_name">名前</string>
+    <string name="bt_return">返却</string>
+    <string name="bt_itiran">一覧</string>
+    <string name="bt_borrow">貸出</string>
+    <string name="dialog_btn_ok">確認</string>
+    <string name="dialog_msg">エラー</string>
+    <string name="dialog_ok_toast">ok</string>
+    <string name="text_rn">返却</string>
+    <string name="back">戻る</string>
+    <string name="return_book">返す</string>
+</resources>
